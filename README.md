@@ -1,1 +1,1 @@
-# SSU_ComputerVision_2021
+# SSU ComputerVision 2021
